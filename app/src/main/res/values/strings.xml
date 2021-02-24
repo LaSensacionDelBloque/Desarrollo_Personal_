@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Desarrollo Personal</string>
+    <string name="Actrep">Actividad de repaso</string>
+    <string name="Temas">Temas para estudio</string>
+    <string name="Herramientas">Herramientas online</string>
+    <string name="Entretenimiento">Entretenimiento</string>
+    <string name="Contacto">Contacto</string>
+<!--    Actrepaso-->
+    <string name="Elige">Elige la unidad correspondiente</string>
+    <string name="Unidad1">Unidad I: "Ser biopsicosocial"</string>
+    <string name="Unidad2">Unidad II: "Proyecto de vida y proceso autogestivo"</string>
+    <string name="Unidad3">Unidad III: "Aplicación de herramientas afectivas e intelectules para la mejora continua"</string>
+<!--    Unidad1-->
+    <string name="U1Act1">Actividad 1</string>
+    <string name="U1Act2">Actividad 2</string>
+    <string name="U1Act3">Actividad 3</string>
+    <string name="U1Act_1">Realiza un esquema parecido al que se muestra a continuación en el ejemplo, explicando cada dimensión del "yo integral". El esquema lo puedes hacer en cualquier formato (consulta herramientas) y enviarlo a tu profesor por google.</string>
+    <string name="U1Act_2">Reúnete en equipos de 3 integrantes para realizar una presentación interactiva sobre la pirámide de Maslow (si no sabes como realizarla consulta en herramientas digitales). La presentación la enviarás por correo o la pueden presentar al grupo.</string>
+    <string name="U1Act_3">Elabora un ensayo sobre tu situación en relación a tus necesidades, dentro de la perspectiva del yo integral. El ensayo lo puedes hacer en Word y enviarlo por correo.</string>
+    <string name="VidMaslow">Mira este video sobre la pirámide de Maslow</string>
+<!--    Unidad2-->
+    <string name="U2Act_1">Para esta actividad tendrás que ver la película denominada "Green Book". Eligiras a uno de los personajes y en la siguientes casillas anotaras el FODA del personaje que elegiste, terminada la actividad tomarás una captura de pantalla para enviarla por correo a tu profesor.</string>
+    <string name="U2Act_2">Con el mismo personaje que elegiste realiza una tabla que tenga los niveles de la autoestima (como se muestra en la imagen) y describe si el personaje que elegiste tiene los bloques de la autoestima. Realiza este ejercicio en Word y envíalo por correo.</string>
+    <string name="U2Act_3">Ingresa a la pagina "creartuavatar.com" y realiza tu avatar, descarga la imagen y realiza tu misión y visión, tal como se muestra en el siguiente formato, puedes decorar todo lo que quieras. Entregalo en la plataforma de Google Classroom.</string>
+<!--    FODA-->
+    <string name="Escribeaqui">Escribe aquí...</string>
+    <string name="Escribenombre">Escribe el nombre de tu personaje:</string>
+    <string name="Fortalezas">FORTALEZAS</string>
+    <string name="Oportunidades">OPORTUNIDADES</string>
+    <string name="Debilidades">DEBILIDADES</string>
+    <string name="Amenazas">AMENAZAS</string>
+<!--    Unidad3-->
+    <string name="U3Act_1">Realiza tu plan de mejora continua en Excel, puedes portarlo en tu celular. El formato es el siguiente:                      Deberas tomar capturas de pantalla cada semana sobre tu progreso y subir las fotografías a la plataforma de Google Clasroom.</string>
+<!--    Herramientas-->
+    <string name="Herramienta">Aquí tienes herramientas virtuales que te serán de ayuda para cualquier tema como; diseño de presentaciones, tabla periódica, solución a problemas de matemáticas y lo más importante  apartar el estrés de tu vida.</string>
+    <!--    Entretenimiento-->
+    <string name="Ent1">¡Este es un espacio creado solamente para ti! Aquí hay contenido multimedia que puedes ver, páginas politécnicas y muchas cosas más.</string>
+    <string name="Ent_vid">Un video que te va a motivar a no desertar del politécnico.</string>
+    <string name="Quepasa">¿Qué pasa en el mundo?</string>
+    <!--    Contactp-->
+    <string name="contacto1">En esta app tienes acceso fácil y rápido a Google Clasroom y otras plataformas de comunicación exclusivas para la materia.</string>
+
+</resources>
