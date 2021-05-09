@@ -67,6 +67,7 @@
                 android:background="#7570FA"
                 android:onClick="Maslow"
                 android:text="@string/VidMaslow"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 app:backgroundTint="#E67570FA" />
 
             <TextView
